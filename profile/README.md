@@ -1,4 +1,4 @@
-Each year there are two **Esri Developer Summits** ([Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) (US-based 🇺🇸) & [Esri European Developer Summit](https://www.esri.com/en-us/about/events/devsummit-europe/) 🇪🇺), but also a **Developer Day** at [Esri User Conference](https://www.esri.com/en-us/about/events/uc/) and [Esri Federal GIS Conference](https://www.esri.com/en-us/about/events/federal-gis-conference/overview).
+Each year there are two **Esri Developer Summits** ([Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) (US-based 🇺🇸) & [Esri European Developer Summit](https://www.esri.com/en-us/about/events/devsummit-europe/) 🇪🇺), but also a **Developer Day** at [Esri User Conference](https://www.esri.com/en-us/about/events/uc/), [Esri Federal GIS Conference](https://www.esri.com/en-us/about/events/federal-gis-conference/overview), and other [GeoDev Events, Webinars, and Meetups](https://www.esri.com/en-us/arcgis/products/develop-with-arcgis/events).
 
 This organization contains repositories with code samples 💻, snippets, and slides voluntarily shared by the speakers.
 
