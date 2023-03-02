@@ -1,4 +1,4 @@
-### 🔎 Filter by
+### 🔎 FILTER BY
 
 **Session type**: [technical-session](https://github.com/orgs/esridevevents/repositories?q=technical-session), [workshop-materials](https://github.com/orgs/esridevevents/repositories?q=workshop-materials), [user-presentation](https://github.com/orgs/esridevevents/repositories?q=user-presentation), [demo-theater](https://github.com/orgs/esridevevents/repositories?q=demo-theater), and [speedgeeking](https://github.com/orgs/esridevevents/repositories?q=speedgeeking).
 
