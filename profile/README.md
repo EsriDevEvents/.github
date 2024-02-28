@@ -17,3 +17,5 @@ You can use any combination of them and filter per session name.
 Please [open an issue](https://github.com/esridevevents/.github/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) if you notice any missing resources, and we will attempt to have the content uploaded.
 
 Learn more about [advanced searches](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github) | Learn [more about Esri Developer Events](https://github.com/EsriDevEvents/contributor-guides/blob/main/README.md#about-esri-developer-events).
+
+If you would like to request access as a contributor, please see our [contributor guide](https://github.com/EsriDevEvents/contributor-guides).
