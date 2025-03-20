@@ -16,7 +16,11 @@ You can use any combination of them and filter per session name.
 
 --- 
 
-Please [open an issue](https://github.com/esridevevents/.github/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) if you notice any missing resources, and we will attempt to have the content uploaded.
+Please use:
+* [**💬 General**]([https://github.com/esridevevents/.github/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc](https://github.com/orgs/EsriDevEvents/discussions/new?category=general)) if you notice any missing resources, and we will attempt to have the content uploaded.
+* [**🙏 Q&A**](https://github.com/orgs/EsriDevEvents/discussions/new?category=q-a) if need help running any of the sample codes provided, ask for help
+* [**💡 Session ideas**](https://github.com/orgs/EsriDevEvents/discussions/new?category=session-ideas): if you want to share technical sessions would you like to see in future editions of the Esri Developer and Technology Summit
+* [**🙌 Show and tell**](https://github.com/orgs/EsriDevEvents/discussions/new?category=show-and-tell) if you have presented or seen a presentation related to our developers tools and want to let us know!
 
 Learn more about [advanced searches](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github) | Learn [more about Esri Developer Events](https://github.com/EsriDevEvents/contributor-guides/blob/main/README.md#about-esri-developer-events).
 
